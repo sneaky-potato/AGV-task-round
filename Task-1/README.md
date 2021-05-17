@@ -9,7 +9,7 @@ T1_20CS10011_astar-compromised.py
 T1_20CS10011_astar\_euclid.py  
 T1_20CS10011_astar\_manhattan.py  
 T1_20CS10011_astar\_diagonal.py  
-`Running the scripts`
+`Running the scripts`  
 On running each script if the image is found (placed in **Images** directory) user will be asked to input the _case_ he want to proceed with 
 (input **1** for case 1: no diagonal movements and input **2** for case 2: inclusive diagonal movements.  
 >Accordingly the output will be shown and an ouput image will be stored in the **Output** directory with the respective name.  
