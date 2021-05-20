@@ -1,1 +1,3 @@
 # AGV-task-round
+### Problem Statement
+Your Task is to implement `Dijkstra’s algorithm` and `A*` to find a path from start point to end point based on the given constraints and note the time required to find the path and the cost of the path found. For `A*` use an **admissible heuristic** and a **non admissible** one along with **Euclidean distance**, **Manhattan Distance** and **Diagonal distance**. So in total we have _5_ heuristic for `A*` and we will compare their results. Note: You are free to choose the admissible and non admissible heuristic as per your choice but choose them wisely so as to see their effects on A* clearly in the results.
